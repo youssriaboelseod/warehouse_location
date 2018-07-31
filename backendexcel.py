@@ -1,5 +1,8 @@
 from openpyxl import load_workbook
 
+# grab the file path
+
+# grab the file worksheet
 wb = load_workbook('demo.xlsx')
 
 # grab the active worksheet
